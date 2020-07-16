@@ -13,5 +13,6 @@ void main()
         str1[i] = str[i];
     }
 
-    printf("%s\n", str1);
+    printf("Entered string: %s\n", str);
+    printf("Copied String: %s\n", str1);
 }
